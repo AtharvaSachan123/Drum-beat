@@ -35,31 +35,31 @@ break;
 case"s":
 var tom3=new Audio("sounds/tom-3.mp3");
 tom3.play();
-this.style.color="blue";
+this.style.color="black";
 break;
 
 case"d":
 var tom4=new Audio("sounds/tom-4.mp3");
 tom4.play();
-this.style.color="yellow";
+this.style.color="black";
 break;
 
 case"j":
 var tom4=new Audio("sounds/crash.mp3");
 tom4.play();
-this.style.color="purple";
+this.style.color="black";
 break;
 
 case"k":
 var tom5=new Audio("sounds/kick-bass.mp3");
 tom5.play();
-this.style.color="pink";
+this.style.color="black";
 break;
 
 case"l":
 var tom6=new Audio("sounds/snare.mp3");
 tom6.play();
-this.style.color="green";
+this.style.color="black";
 break;
 
 default:
