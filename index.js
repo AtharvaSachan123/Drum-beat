@@ -79,7 +79,7 @@ function Aniamtion(buttonpress)
 
    setTimeout(function(){
     activebutton.classList.remove("pressed");
-   },100)
+   },1000)
 
 
 }
